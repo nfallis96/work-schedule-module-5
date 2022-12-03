@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Projects Description](#projects-description)
+* [Demo](#demo-of-application)
 * [Screenshots - Code examples](#screenshots---code-examples)
 * [Technologies Used](#technologies-used)
 * [Links](#links)
@@ -9,6 +10,11 @@
 ## Projects Description
 This project's purpose was to make a workday scheduler for planning work tasks during the day. This application uses Javascript, HTML, CSS, bootstrap, moment.js, and JQuery features. This application is a planner for work and keeps tasks in order. It allows people to insert text in each row and save it by clicking a save button. Even if you refresh the page, it stays saved in the application.
 Furthermore, each row time block has a color set according to the current time of day. The hours that have past are in the color gray. The present hour will be in the color red. The hours in the future are in the color green. 
+
+## Demo of Application
+demo of application
+![Demo](work-schedule.gif)
+
 
 ## Screenshots - Code examples
 Screen shot of application
